@@ -7,18 +7,26 @@
 .haru {
   height: 200px;
   background-image: url(../../イメージ/img/box1.jpg);
+  background-size: cover;
+  background-position: center;
 }
 .natu {
   height: 200px;
   background-image: url(../../イメージ/img/box2.jpg);
+  background-size: cover;
+  background-position: center;
 }
 
 .aki {
   height: 200px;
   background-image: url(../../イメージ/img/box3.jpg);
+  background-size: cover;
+  background-position: center;
 }
 
 .huyu {
   height: 200px;
   background-image: url(../../イメージ/img/box4.jpg);
+  background-size: cover;
+  background-position: center;
 }
