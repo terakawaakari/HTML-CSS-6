@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.haru {
+  height: 200px;
+  background-image: url(../../イメージ/img/box1.jpg);
+}
+.natu {
+  height: 200px;
+  background-image: url(../../イメージ/img/box2.jpg);
+}
+
+.aki {
+  height: 200px;
+  background-image: url(../../イメージ/img/box3.jpg);
+}
+
+.huyu {
+  height: 200px;
+  background-image: url(../../イメージ/img/box4.jpg);
+}
